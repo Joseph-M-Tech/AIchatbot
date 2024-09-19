@@ -1,0 +1,1 @@
+$.post('some/url', $('#myForm').serialize());
